@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  background-color: cadetblue;
+}
+
+#title {
+  text-align: center;
+  font-size: 48px;
+  margin: 15px;
+}
+
+.link-list {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.recipe-link {
+  margin: 10px;
+}
+
+.section-title {
+  font-size: 32px;
+}
+
+.content-item {
+  font-size: 16px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 400px;
+  height: 300px;
+}
+
+.section {
+  width: 700px;
+  margin: auto;
+}
+.section-title {
+  margin: 5px;
+}
+.back-link {
+  margin: 175px;
+}
